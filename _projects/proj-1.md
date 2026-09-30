@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'Project One'
-thumbnail: /assets/img/projects/proj-1/thumbnail.jpg
+title: 'Immigrant Integration in Post-Conflict Cities: A Belfast Case Study'
+thumbnail: /assets/img/projects/proj-1/clipboard-217776805
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+As part of the Elliott School Dean's Scholars program (cohort 2024-2026), I designed and conducted original research examining perceived geographies in post-conflict cities by immigrants. Funded by The George Washington University's Undergraduate Research Award, I traveled to Belfast, Northern Ireland to interview immigrants and first generation residents about their integration in a post-conflict city. I had interviewees create a cognitive map in which they drew on a map of Belfast where they frequent vs to not frequent to get an understanding of their perceived geography of post-conflict Belfast. I created maps using ArcGIS Pro, Procreate, and Adobe Illustrator.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+![](images/clipboard-3642790797.png)
+
+![](images/clipboard-2177768056.png)
