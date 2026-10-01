@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Project Two'
-thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
+title: 'George Washington Arboretum Tour'
+thumbnail: /cktportfolio/portfolio/_projects/images/clipboard-3598125757
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+![](images/clipboard-3598125757.png)
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+In partnership with The George Washington University's Office of Sustainability, I created a virtual walking tour of the University's Arboretum. You can view and interact at this [link](https://experience.arcgis.com/experience/289876166db241e3be416357b807413b#data_s=id%3Aa3c11cb9da8d44dcace8ba5aa2ddecbf-19d5ee6e380-layer-2-19d5ee6e60a-layer-4%3A4)
