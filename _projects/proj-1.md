@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Immigrant Integration in Post-Conflict Cities: A Belfast Case Study'
-thumbnail:/assets/img/projects/Question2.jpg
+thumbnail: /assets/img/projects/Question2.jpg
 ---
 ![Interviewees outlined where they frequent the most with a clear preference for the center city.]({{ '/assets/img/projects/Question2.jpg' | relative_url }})
 
