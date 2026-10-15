@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Immigrant Integration in Post-Conflict Cities: A Belfast Case Study'
-thumbnail: /assets/img/projects/Question2.jpg
+thumbnail: images/Question2.jpg
 ---
-![Interviewees outlined where they frequent the most with a clear preference for the center city.]({{ '/assets/img/projects/Question2.jpg' | relative_url }})
+![Interviewees outlined where they frequent the most with a clear preference for the center city.]({{ 'images/Question2.jpg' | relative_url }})
 
 ![Interviewees outlined where they do not frequent with a majority avoiding the more sectarian neighborhoods in Belfast.]({{ '/assets/img/projects/Question5.jpg' | relative_url }})
 
